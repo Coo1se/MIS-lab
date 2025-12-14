@@ -1,16 +1,3 @@
-# lab3
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="359" height="795" alt="mis-lab3-categories" src="https://github.com/user-attachments/assets/c998032e-3d02-43b7-aabf-27f039a72c8a" />
+<img width="360" height="799" alt="mis-lab3-favorites" src="https://github.com/user-attachments/assets/3d2aaaf8-b75c-4a2c-bcbe-30ef67a5e1cb" />
+<img width="359" height="795" alt="mis-lab3-meals_details" src="https://github.com/user-attachments/assets/17830a31-55e1-49cf-b95a-d06744ea601b" />
